@@ -1,0 +1,15 @@
+body {
+  background-image: url("flight-mountains-sky-flying.jpeg");
+  background-size: cover;
+}
+
+img {
+  width: 33%;
+  height: 33%;
+}
+
+p {
+  color: red;
+  font-family: "Arial";
+  font-size: 150%;
+}
